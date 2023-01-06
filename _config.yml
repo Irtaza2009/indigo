@@ -4,7 +4,7 @@ bio: A Game Developer and Video Editor
 description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
-dark-theme: false
+dark-theme: auto
 resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
@@ -25,23 +25,17 @@ github: Irtaza2009
 email: irtazanaqvi05@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  mujtaba:
+    name: Muhammad Irtaza
+    bio: I love to play and develop games
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
@@ -75,6 +69,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-admin
   - jekyll-paginate-v2
 
 compress_html:
