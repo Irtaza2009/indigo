@@ -34,19 +34,19 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
+	<li>Adobe Premiere Pro</li>
+	<li>Adobe After Effects</li>
+	<li>HTML</li>
+	<li>CSS</li>
+	<li>Javascript</li>
+	<li>C#</li>
+	<li>C++</li>
 	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
 	<li>Git</li>
+	<li>MySQL - MongoDB</li>
 	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Unity - Unreal Engine - Love 2d</li>
 </ul>
 
 <h2>Projects</h2>
@@ -54,5 +54,5 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <ul>
 	<li><a href="https://www.instagram.com/stories/markmun.2023/3032297410715145151/">Benchmark MUN Instagram Videos</a></li>
 	<li><a href="https://www.instagram.com/p/Cnt_2EUAIN_/">MarkMUN Anouncement Trailer</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://irtaza.itch.io/">My Games</a></li>
 </ul>
