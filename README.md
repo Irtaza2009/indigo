@@ -1,13 +1,13 @@
 <p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
+    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://irtaza2009.github.io/indigo/">Demo</a></h2>
 </p>
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+<p align="center">This is a simple and minimalist template for Jekyll</p>
 
 ***
 
 <p align="center">
-    <b><a href="README.md#what-has-inside">What has inside</a></b>
+    <b><a href="README.md#what-it-has-inside">What it has inside</a></b>
     |
     <b><a href="README.md#setup">Setup</a></b>
     |
@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
 </p>
 
-## What has inside
+## What it has inside
 
 - [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/) ~[RSCSS](https://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/);
 - Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
@@ -37,7 +37,7 @@
 2. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
 3. Write some posts :bowtie:
 
-If you want to test locally on your machine, do the following steps also:
+If you want to test locally on your machine, also do the following steps:
 
 1. Install [Jekyll](https://jekyllrb.com) and [Bundler](https://bundler.io/).
 2. Clone the forked repo on your machine
