@@ -6,7 +6,7 @@ external-image: false
 picture: assets/images/profile.jpg
 dark-theme: auto
 resume: false
-resume-external: true
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 url: https://irtaza2009.github.io/indigo
 permalink: /:title/
@@ -17,10 +17,10 @@ disqus:
   shortname: github # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+#twitter: mytwitter
 instagram: irtaza_2009
-linkedin: mylinkedin
+#linkedin: mylinkedin
 github: Irtaza2009
 email: irtazanaqvi05@gmail.com
 
