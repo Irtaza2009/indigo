@@ -49,12 +49,12 @@ ideas to life.</p>
 	<li><a href="https://www.instagram.com/stories/highlights/17893899323699264/">MarkMUN Opening Ceremony Snippets</a></li>
 	<li><a href="https://www.instagram.com/stories/highlights/17975817367896538/">Benchmark MUN Committee Snippets</a></li>
 	<li><a href="https://www.instagram.com/stories/highlights/17959473761350487/">Benchmark MUN Global Village Highlights</a></li>
-	<li><a href="https://irtaza.itch.io/">My Games</a></li>
+	
 	
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	
+	<li><a href="https://irtaza.itch.io/">My Games</a></li>
 </ul>
