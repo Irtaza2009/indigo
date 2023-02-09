@@ -10,7 +10,7 @@ resume-external: false
 resume-url: https://google.com/?q=my+resume
 url: https://www.irtaza.live
 permalink: /:title/
-# analytics-google: G-HHFKYQEHMW
+analytics-google: G-HHFKYQEHMW
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
