@@ -34,15 +34,14 @@ ideas to life.</p>
 	<li>Javascript</li>
 	<li>C#</li>
 	<li>C++</li>
-	<li>AngularJS - ReactJS</li>
+	<li>Lua</li>
 	<li>Git</li>
 	<li>MySQL - MongoDB</li>
-	<li>PHP</li>
 	<li>Python</li>
 	<li>Unity - Unreal Engine - Love 2d</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Work</h2>
 
 <ul>
 	<li><a href="https://www.instagram.com/p/Cnt_2EUAIN_/">MarkMUN Anouncement Trailer</a></li>
@@ -51,5 +50,11 @@ ideas to life.</p>
 	<li><a href="https://www.instagram.com/stories/highlights/17975817367896538/">Benchmark MUN Committee Snippets</a></li>
 	<li><a href="https://www.instagram.com/stories/highlights/17959473761350487/">Benchmark MUN Global Village Highlights</a></li>
 	<li><a href="https://irtaza.itch.io/">My Games</a></li>
+	
+</ul>
+
+<h2>Projects</h2>
+
+<ul>
 	
 </ul>
