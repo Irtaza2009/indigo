@@ -1,5 +1,5 @@
 title: Muhammad Irtaza
-bio: A Game Developer and Video Editor
+bio: A Video Editor and Game Developer
 # twitter summary info
 description: A blog about technology and stuff related
 external-image: false
@@ -8,7 +8,7 @@ dark-theme: auto
 resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
-url: https://irtaza2009.github.io/indigo
+url: https://www.irtaza.live
 permalink: /:title/
 # analytics-google: 'UA-MYANALYTICS'
 
@@ -23,6 +23,7 @@ instagram: irtaza_2009
 #linkedin: mylinkedin
 github: Irtaza2009
 email: irtazanaqvi05@gmail.com
+itch: irtaza
 
 authors:
   irtaza:
