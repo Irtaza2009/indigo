@@ -8,8 +8,8 @@ dark-theme: auto
 resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
-url: https://irtaza2009.github.io/indigo
-permalink: /:title/
+url: "https://irtaza2009.github.io/indigo"
+permalink: "/:title/"
 analytics-google: G-HHFKYQEHMW
 
 # if you don't want comments in your posts, leave categories empty
