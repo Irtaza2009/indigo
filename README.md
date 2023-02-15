@@ -33,7 +33,7 @@
 ## Setup
 
 0. :star: to the project. :metal:
-1. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
+1. Fork the project [Indigo](https://github.com/irtaza2009/indigo/fork)
 2. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
 3. Write some posts :bowtie:
 
@@ -51,8 +51,8 @@ If you want to test locally on your machine, also do the following steps:
 You must fill some informations on `_config.yml` to customize your site.
 
 ```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Muhammad Irtaza
+bio: 'A man who loves technology and stuff related'
 picture: 'assets/images/profile.jpg'
 ...
 
