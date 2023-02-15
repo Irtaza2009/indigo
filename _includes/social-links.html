@@ -31,15 +31,16 @@
         </a>
     {% endif %}
     
-    {% if site.itch %}
-        <a class="link" data-title="itch.io/{{ site.github }}" href="https://{{ site.github }}.itch.io" target="_blank"  rel="noopener">
-            <i class="fa-brands fa-itch-io"></i>
-        </a>
-    {% endif %}
 
     {% if site.email %}
         <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}"  rel="noopener">
             <i class="fa-regular fa-envelope"></i>
+        </a>
+    {% endif %}
+    
+    {% if site.itch %}
+        <a class="link" data-title="{{ site.github }}.itch.io" href="https://{{ site.github }}.itch.io" target="_blank"  rel="noopener">
+            <i class="fa-brands fa-itch-io"></i>
         </a>
     {% endif %}
 </div>
