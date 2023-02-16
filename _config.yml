@@ -4,7 +4,7 @@ bio: A Video Editor and Game Developer
 description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
-dark-theme: auto
+dark-theme: false
 resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
@@ -46,7 +46,7 @@ pagination:
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
   permalink: "/:num/" # pagination link that will be appended
-#projects: true
+projects: true
 about: true
 blog: true
 read-time: true
