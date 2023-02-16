@@ -46,7 +46,7 @@ You can try the evidence!
 
 ## Side-by-side
 
-Like the [Medium](https://medium.com/) component.
+Like the Medium(https://medium.com/) component.
 
 **Image** on the left and **Text** on the right:
 
@@ -54,7 +54,7 @@ Like the [Medium](https://medium.com/) component.
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
+        <figcaption class="caption">Photo by Irtaza</figcaption>
     </div>
 
     <div class="toright">
