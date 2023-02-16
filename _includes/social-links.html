@@ -31,10 +31,9 @@
         </a>
     {% endif %}
     
-
-    {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}"  rel="noopener">
-            <i class="fa-regular fa-envelope"></i>
+    {% if site.medium %}
+        <a class="link" data-title="medium.com/{{ site.medium }}" href="https://medium.com/@{{ site.medium }}" target="_blank"  rel="noopener">
+            <i class="fa-brands fa-medium"></i>
         </a>
     {% endif %}
     
@@ -43,10 +42,12 @@
             <i class="fa-brands fa-itch-io"></i>
         </a>
     {% endif %}
-    
-    {% if site.medium %}
-        <a class="link" data-title="medium.com/{{ site.medium }}" href="https://medium.com/@{{ site.medium }}" target="_blank"  rel="noopener">
-            <i class="fa-brands fa-medium"></i>
+
+    {% if site.email %}
+        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}"  rel="noopener">
+            <i class="fa-regular fa-envelope"></i>
         </a>
     {% endif %}
+    
+    
 </div>
